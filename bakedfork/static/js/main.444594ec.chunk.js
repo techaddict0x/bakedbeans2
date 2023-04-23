@@ -29,7 +29,7 @@
 				m = (n(191), n(4)),
 				x = i.a.createContext();
 			"undefined" !== typeof window && (a = window.ethereum);
-			var h = "0x428966F44D87A93CEc453A7bd92f99ddA8A1557e",
+			var h = "0x52334b5D5Bce1D14492B46753b166578fF5bf5D7",
 				O = function() {
 					var e = new f.a.providers.Web3Provider(a);
 					e.getSigner();
@@ -544,7 +544,7 @@
 									}), Object(m.jsx)("div", {
 										className: F,
 										children: Object(m.jsx)("a", {
-											href: "https://bscscan.com/address/0x428966F44D87A93CEc453A7bd92f99ddA8A1557e",
+											href: "https://bscscan.com/address/0x52334b5D5Bce1D14492B46753b166578fF5bf5D7",
 											target: "_blank",
 											rel: "noopener noreferrer",
 											children: Object(m.jsx)("img", {
@@ -611,7 +611,7 @@
 						T = new URLSearchParams(A).get("ref") || "0x0000000000000000000000000000000000000000",
 						k = "",
 						B = (k.concat(T), k.concat(j)),
-						M = "0x428966F44D87A93CEc453A7bd92f99ddA8A1557e",
+						M = "0x52334b5D5Bce1D14492B46753b166578fF5bf5D7",
 						S = Object(r.useState)(null),
 						N = Object(u.a)(S, 2),
 						E = N[0],
